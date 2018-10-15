@@ -1,0 +1,53 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "d. c. facts",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "DCFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "dc facts",
+                        "tell me dc facts",
+                        "facts",
+                        "dc",
+                        "i would like to know dc facts",
+                        "dc universe",
+                        "dc universe facts",
+                        "dc comics facts",
+                        "dc comics",
+                        "what is dc",
+                        "tell me about dc comics",
+                        "tell me some dc facts",
+                        "tell me",
+                        "Tell me dc comics",
+                        "yes",
+                        "yup",
+                        "yeah"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
